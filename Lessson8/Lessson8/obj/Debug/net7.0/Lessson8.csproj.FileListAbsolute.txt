@@ -1,0 +1,15 @@
+D:\cursach\Lessson8\Lessson8\bin\Debug\net7.0\Lessson8.exe
+D:\cursach\Lessson8\Lessson8\bin\Debug\net7.0\Lessson8.deps.json
+D:\cursach\Lessson8\Lessson8\bin\Debug\net7.0\Lessson8.runtimeconfig.json
+D:\cursach\Lessson8\Lessson8\bin\Debug\net7.0\Lessson8.dll
+D:\cursach\Lessson8\Lessson8\bin\Debug\net7.0\Lessson8.pdb
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\Lessson8.csproj.AssemblyReference.cache
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\Lessson8.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\Lessson8.AssemblyInfoInputs.cache
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\Lessson8.AssemblyInfo.cs
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\Lessson8.csproj.CoreCompileInputs.cache
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\Lessson8.dll
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\refint\Lessson8.dll
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\Lessson8.pdb
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\Lessson8.genruntimeconfig.cache
+D:\cursach\Lessson8\Lessson8\obj\Debug\net7.0\ref\Lessson8.dll
